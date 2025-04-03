@@ -3,3 +3,5 @@
 
 # cilium
 https://devocean.sk.com/blog/techBoardDetail.do?ID=165280
+
+https://www.youtube.com/watch?v=Yequ94ZzN6U&list=PLiMWaCMwGJXnKY6XmeifEpjIfkWRo9v2l&index=9
