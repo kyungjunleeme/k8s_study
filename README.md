@@ -13,3 +13,4 @@ https://www.youtube.com/watch?v=Yequ94ZzN6U&list=PLiMWaCMwGJXnKY6XmeifEpjIfkWRo9
 - https://stackoverflow.com/questions/65456814/docker-apple-silicon-m1-preview-mysql-no-matching-manifest-for-linux-arm64-v8
 
 
+https://www.cncf.io/blog/2025/05/02/understanding-kubernetes-gateway-api-a-modern-approach-to-traffic-management/
